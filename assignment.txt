@@ -1,0 +1,20 @@
+Write 10 C++ programs that cover the major features of Object-Oriented Programming (OOP).
+
+Your programs should demonstrate the following concepts:
+
+1. Class and Object  
+2. Constructor and Destructor  
+3. Constructor Overloading  
+4. Inheritance (Single/Multilevel)  
+5. Function Overloading  
+6. Operator Overloading  
+7. Friend Function  
+8. Virtual Function  
+9. Exception Handling  
+10. Any additional feature or unique example using OOP
+
+🔹 Make sure:
+- Each program is written clearly with proper indentation.
+- Output of each program must be displayed below it when submitting.
+- Programs must be unique and not directly copied from the internet or book.
+- The entire lab report must be handwritten.
